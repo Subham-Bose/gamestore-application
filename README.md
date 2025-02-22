@@ -1,8 +1,8 @@
-## GameStore Application
+# GameStore Application
 
 Welcome to the GameStore Application! This is a basic application designed to manage a collection of games. It allows users to browse, add, update, and delete games from the store.
 
-# Features
+## Features
 
 Browse Games: View a list of available games in the store.
 
@@ -12,23 +12,23 @@ Update Games: Modify existing game details.
 
 Delete Games: Remove games from the store.
 
-# Technologies Used
+## Technologies Used
 
 Backend: .NET Core
 
 Other Tools: Git, Visual Studio, etc.
 
-# Getting Started
+## Getting Started
 
 Follow these steps to set up and run the GameStore application on your local machine.
 
-# Prerequisites
+## Prerequisites
 
 .NET Core SDK (version 6.0 or later)
 
 (Optional) A code editor like Visual Studio or Visual Studio Code
 
-# Installation
+## Installation
 
 Clone the Repository:
 
@@ -43,7 +43,7 @@ dotnet run
 Access the Application:
 Open your browser and navigate to http://localhost:5000 (or the port specified in the output).
 
-# Project Structure
+## Project Structure
 
 gamestore-application/
 ├── Controllers/ # API controllers
@@ -66,7 +66,7 @@ PUT /api/games/{id}: Update an existing game.
 
 DELETE /api/games/{id}: Delete a game.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -78,8 +78,8 @@ Commit your changes.
 
 Push your branch and submit a pull request.
 
-# Acknowledgments
+## Acknowledgments
 
-Thanks to the .NET Core team for providing an excellent framework.
+# Thanks to the .NET Core team for providing an excellent framework.
 
 ## Inspired by basic CRUD applications for learning purposes.
